@@ -1,0 +1,10 @@
+C:\Users\22noa\Documents\GitHub\text_editor\text_editor\text_editor\bin\Debug\text_editor.exe.config
+C:\Users\22noa\Documents\GitHub\text_editor\text_editor\text_editor\bin\Debug\text_editor.exe
+C:\Users\22noa\Documents\GitHub\text_editor\text_editor\text_editor\bin\Debug\text_editor.pdb
+C:\Users\22noa\Documents\GitHub\text_editor\text_editor\text_editor\obj\Debug\text_editor.csprojAssemblyReference.cache
+C:\Users\22noa\Documents\GitHub\text_editor\text_editor\text_editor\obj\Debug\text_editor.Form1.resources
+C:\Users\22noa\Documents\GitHub\text_editor\text_editor\text_editor\obj\Debug\text_editor.Properties.Resources.resources
+C:\Users\22noa\Documents\GitHub\text_editor\text_editor\text_editor\obj\Debug\text_editor.csproj.GenerateResource.cache
+C:\Users\22noa\Documents\GitHub\text_editor\text_editor\text_editor\obj\Debug\text_editor.csproj.CoreCompileInputs.cache
+C:\Users\22noa\Documents\GitHub\text_editor\text_editor\text_editor\obj\Debug\text_editor.exe
+C:\Users\22noa\Documents\GitHub\text_editor\text_editor\text_editor\obj\Debug\text_editor.pdb
