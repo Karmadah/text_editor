@@ -10,9 +10,9 @@ using System.Windows.Forms;
 using System.IO;
 namespace text_editor
 {
-    public partial class Form1 : Form
+    public partial class f_main : Form
     {
-        public Form1()
+        public f_main()
         {
             InitializeComponent();
         }
@@ -32,6 +32,24 @@ namespace text_editor
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 rtb_main_text.Text = File.ReadAllText(ofd.FileName);
+            }
+        }
+
+        private void b_update_font_Click(object sender, EventArgs e)
+        {
+            switch(cb_font_size.SelectedIndex)
+            {
+                case 0:
+                    rtb_main_text.Font = t_small_text.Font;
+                    break;
+
+                case 1:
+                    rtb_main_text.Font = t_medium_text.Font;
+                    break;
+
+                case 2:
+                    rtb_main_text.Font = t_large_text.Font;
+                    break;
             }
         }
     }
